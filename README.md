@@ -11,17 +11,17 @@ Predicting flight prices without having proper idea about particular airline com
 Using Machine Learning approach it becomes quite easy as the model predicts that how much you need to spent on your flight expenses by getting rid of all unnecessary calculations and brain scratching thoughts. 
 From user's point of view this is somehow proves to be a profitable project model as user can select from a wide range of airline companies whichever of their choice is and decide budget for their ongoing journey without spending anything extra.
 
-## Demo
+## References
 - Dataset: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
--Guidance: https://youtube.be/y4EMEpEnElQ
+- Guidance: https://youtube.be/y4EMEpEnElQ
 
 ## Installation
 
 While making this project I used python 3.7.
 If you are using any lower variant of python then I recommend you to upgrade your python to the latest version by using pip.
 
-#Members
- > Dheeraj Pramod Naik
- > Giri Narashima T
- > Ganesh S
- > H S Nagabharan
+# Team Members
+ - Dheeraj Pramod Naik
+ - Giri Narashima T
+ - Ganesh S
+ - H S Nagabharan
